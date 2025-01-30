@@ -1,0 +1,7 @@
+matplotlib==3.8.2
+numpy>=1.21,<2
+pandas==2.2.3
+scikit_learn==1.4.0
+scipy==1.15.1
+spotipy==2.23.0
+tqdm==4.66.1
