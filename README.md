@@ -141,7 +141,7 @@ The following table shows our results:
 | Model Name              | R-Precision | NDCG      | Song Clicks |
 |-------------------------|:-----------:|:---------:|:-----------:|
 | Random                  | 0.014       | 0.006     | 39.180      |
-| kNN                     | 0.050       | 0.021     | 27.786      |
+| k-NN                     | 0.050       | 0.021     | 27.786      |
 | Random Forest           | 0.119       | 0.049     | 17.283      |
 | Collaborative Filtering | 0.338       | 0.170     | 8.420       |
 | Top-500                 | 0.338       | 0.171     | 8.387       |
